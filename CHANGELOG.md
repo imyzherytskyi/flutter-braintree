@@ -1,3 +1,13 @@
+## 4.1.1
+
+- remove deprecated Flutter Android plugin registry to support Flutter 3.29+
+
+## 4.1.0
+
+- update Drop-In SDKs:
+  - Android `6.13.0` -> `6.16.0`
+  - iOS `9.4.0` -> `9.13.0`
+
 ## 4.0.0
 
 - Upgrade Drop-In SDK to 6.13.0
